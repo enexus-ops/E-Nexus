@@ -362,9 +362,6 @@ hover:from-blue-600 hover:to-[#FF6EC7] text-white p-3 rounded-lg shadow-lg trans
                   <li>
                     <a href="#events" className="block text-xl text-gray-300 hover:text-white hover:bg-gray-800 p-4 rounded-lg transition-all duration-300 transform hover:translate-x-2" onClick={() => setSidebarOpen(false)}>📅 Events</a>
                   </li>
-                  <li>
-                    <a href="#faq" className="block text-xl text-gray-300 hover:text-white hover:bg-gray-800 p-4 rounded-lg transition-all duration-300 transform hover:translate-x-2" onClick={() => setSidebarOpen(false)}>❓ FAQ</a>
-                  </li>
                 </ul>
               </nav>
 
